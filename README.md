@@ -6,6 +6,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gitkp11&repo=Python-Mini-Projects&show_owner=true&card_width=2)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gitkp11&repo=aitecell&show_owner=true&card_width=50)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gitkp11&repo=cricket-score-simulator&show_owner=true&card_width=50)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gitkp11&repo=BlogApp&show_owner=true&card_width=50)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gitkp11/gitkp11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
