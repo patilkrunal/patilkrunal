@@ -5,9 +5,9 @@
 
 I'm gitkp11
 
-[![gitkp11's github stats](https://github-readme-stats.vercel.app/api?username=gitkp11)](https://github.com/anuraghazra/github-readme-stats)
+[[gitkp11's github stats](https://github-readme-stats.vercel.app/api?username=gitkp11)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitkp11&hide=TeX&layout=compact)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitkp11&hide=TeX&layout=compact)
 
 
 Here are some ideas to get you started:
