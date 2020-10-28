@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![gitkp11's github stats](https://github-readme-stats.vercel.app/api?username=gitkp11&count_private=true&show_icons=true&hide=stars,issues&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![gitkp11's github stats](https://github-readme-stats.vercel.app/api?username=gitkp11&count_private=true&show_icons=true&hide=issues&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitkp11&hide=TeX&layout=compact&count_private=true&theme=radical)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gitkp11&repo=Python-Mini-Projects&show_owner=true&card_width=2)](https://github.com/anuraghazra/github-readme-stats)
