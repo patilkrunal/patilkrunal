@@ -1,5 +1,5 @@
 ### Believe in yourself  
-<a href="https://docs.google.com/document/d/1jGpzo-vF2K8YJmJU5xcv8NNrpuicsdYuYlhbG6SRJu0/edit?usp=sharing" target="_blank">📄 Resume</a> <a href="https://www.linkedin.com/in/patilkrunal/" target="_blank">[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/patilkrunal/)</a>
+<a href="https://bit.ly/krunal-cv" target="_blank">📄 Resume</a> <a href="https://www.linkedin.com/in/patilkrunal/" target="_blank">[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/patilkrunal/)</a>
 
 
 ![patilkrunal's github stats](https://github-readme-stats.vercel.app/api?username=patilkrunal&count_private=true&show_icons=true&hide=issues&theme=radical&include_all_commits=true)
