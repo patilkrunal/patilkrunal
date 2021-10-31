@@ -21,10 +21,11 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=patilkrunal&theme=radical&show_icons=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilkrunal&layout=compact&theme=radical" width="400" />
 </p>
-
+<p align="center">
+  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</p>
 
 
 
