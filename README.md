@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hi there, I'm Krunal </h1>
 </p>
 <p align="center">
-  <a href="http://kp.gtsb.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-kp.gtsb.io-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Portfolio" /></a>&nbsp;
+  <a href="https://patilkrunal.me/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-patilkrunal.me-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Portfolio" /></a>&nbsp;
   <a href="https://bit.ly/krunal-cv" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Resume-orange?style=for-the-badge" alt="Resume" /></a>&nbsp;
   <img src="https://c.tenor.com/XvJfOBkN33MAAAAC/modi-ji-tapa-tapa.gif" alt="" width="30">&nbsp;
   <a href="https://www.linkedin.com/in/patilkrunal/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
