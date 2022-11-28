@@ -1,6 +1,6 @@
 <p>
   <h1 align="center">Hi there, I'm Krunal</h1>
-  <h3 align="center">I am a Final Year Computer Engineering Student with keen interest in Software Industry</h3>
+  <h3 align="center">I am a Software Developer at Turtlemint, Pune with keen interest in Software Industry</h3>
 </p>
 <p align="center">
   <a href="https://patilkrunal.me/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-patilkrunal.me-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Portfolio" /></a>&nbsp;
